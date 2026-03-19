@@ -16,13 +16,13 @@ const { getFirestore, doc, setDoc } = require('firebase/firestore');
 
 // Firebase configuration from src/lib/firebase.ts
 const firebaseConfig = {
-  apiKey: "AIzaSyA1d6xXDzIKyMI_t7CDGvJXbBFQdpkCIjs",
-  authDomain: "village-milk-track.firebaseapp.com",
+  apiKey: "###################################",
+  authDomain: "################################.firebaseapp.com",
   projectId: "village-milk-track",
-  storageBucket: "village-milk-track.firebasestorage.app",
-  messagingSenderId: "976599747315",
-  appId: "1:976599747315:web:f3a1ec27dd91ba0ae58586",
-  measurementId: "G-1BB99GT9R7"
+  storageBucket: "################################.appspot.com",
+  messagingSenderId: "################################",
+  appId: "################################",
+  measurementId: "################################"
 };
 
 // Initialize Firebase
